@@ -1,2 +1,2 @@
-# programming-expert
-Programming expert problems
+# Programming Expert
+Programming expert solutions to problems and projects
